@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <customWmsMapSource>
-    <name># Geonorge Ortofoto</name>
+    <name>04 Geonorge</name>
     <version>1.3.0</version>
     <minZoom>0</minZoom>
     <maxZoom>22</maxZoom>
