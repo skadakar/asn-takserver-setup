@@ -1,6 +1,8 @@
 <?xml version='1.0' standalone='yes'?>
 <preferences>
 	<preference version="1" name="com.atakmap.app.civ_preferences">
-		<entry key="lastViewedLayer.name" class="class java.lang.String"># ArcGIS</entry>
+		<entry key="lastViewedLayer.name" class="class java.lang.String"Mobile</entry>
+		<entry key="lastViewedLayer.name" class="class java.lang.String"># Kartverket Topografisk n25-n500</entry>
+		<entry key="lastViewedLayer.autoselect" class="class java.lang.Boolean">false</entry>
 	</preference>
 </preferences>
