@@ -8,6 +8,5 @@
 	</preference>
 	<preference version="1" name="com.atakmap.app_preferences">
 		<entry key="displayServerConnectionWidget" class="class java.lang.Boolean">true</entry>
-		<entry key="displayServerConnectionWidget" class="class java.lang.Boolean">true</entry>
 	</preference>
 </preferences>
