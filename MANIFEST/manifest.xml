@@ -5,6 +5,7 @@
       <Parameter name="onReceiveDelete" value="false"/>
    </Configuration>
    <Contents>
+      <!-- Alle filer som ikke er deklarert her vil bli ignorert! -->
       <Content ignore="false" zipEntry="content/yellowteam.pref"/>
       <Content ignore="false" zipEntry="content/blueteam.pref"/>
       <Content ignore="false" zipEntry="content/redteam.pref"/>
