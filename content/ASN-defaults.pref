@@ -2,10 +2,15 @@
 <preferences>
 	<preference version="1" name="com.atakmap.app.civ_preferences">
 		<entry key="lastViewedLayer.name" class="class java.lang.String"Mobile</entry>
+		<entry key="rng_meters_display_pref" class="class java.lang.String">2000</entry>
+		<entry key="speed_unit_pref" class="class java.lang.String">1</entry>
 		<entry key="lastViewedLayer.name" class="class java.lang.String">01 Kartverket n25-n500</entry>
 		<entry key="lastViewedLayer.autoselect" class="class java.lang.Boolean">false</entry>
 	</preference>
 		<preference version="1" name="com.atakmap.app.civ_preferences">
+		<entry key="rab_rng_units_pref" class="class java.lang.String">1</entry>
 		<entry key="saHasPhoneNumber" class="class java.lang.Boolean">false</entry>
+		<entry key="alt_unit_pref" class="class java.lang.String">1</entry>
+		<entry key="lastViewedLayer.active" class="class java.lang.String">Mobile</entry>
 	</preference>
 </preferences>
