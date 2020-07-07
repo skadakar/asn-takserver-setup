@@ -4,15 +4,21 @@
 		<entry key="rng_meters_display_pref" class="class java.lang.String">2000</entry>
 		<entry key="speed_unit_pref" class="class java.lang.String">1</entry>
 		<entry key="lastViewedLayer.name" class="class java.lang.String">01 Kartverket n25-n500</entry>
+		<entry key="rab_brg_units_pref" class="class java.lang.String">0</entry>
+		<entry key="rab_color_pref" class="class java.lang.String">red</entry>
 		<entry key="status_tilt_enabled" class="class java.lang.Boolean">true</entry>
 		<entry key="lastViewedLayer.autoselect" class="class java.lang.Boolean">false</entry>
+		<entry key="viewshed_prefs_height_above" class="class java.lang.Integer">0</entry>
 		<entry key="rab_rng_units_pref" class="class java.lang.String">1</entry>
 		<entry key="status_3d_enabled" class="class java.lang.Boolean">true</entry>
 		<entry key="saHasPhoneNumber" class="class java.lang.Boolean">false</entry>
 		<entry key="locationUnitType" class="class java.lang.String">a-f-G-U-C</entry>
+		<entry key="viewshed_prefs_radius" class="class java.lang.Integer">1000</entry>
 		<entry key="alt_display_pref" class="class java.lang.String">MSL</entry>
+		<entry key="coord_display_pref" class="class java.lang.String">MGRS</entry>
 		<entry key="rab_north_ref_pref" class="class java.lang.String">1</entry>
 		<entry key="alt_unit_pref" class="class java.lang.String">1</entry>
+		<entry key="rng_feet_display_pref" class="class java.lang.String">5280</entry>
 		<entry key="lastViewedLayer.active" class="class java.lang.String">Mobile</entry>
 	</preference>
 </preferences>
